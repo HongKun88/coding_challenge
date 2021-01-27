@@ -1,6 +1,6 @@
 /*
-문제 출처: https://www.hackerrank.com/challenges/15-days-of-learning-sql/submissions/code/168165471
-Hard Level
+* 문제 출처: https://www.hackerrank.com/challenges/15-days-of-learning-sql/submissions/code/168165471
+* Hard Level
 */
 
 WITH TEMP_TB AS

@@ -1,6 +1,6 @@
 /*
-문제 출처: https://programmers.co.kr/learn/courses/30/lessons/59413
-Leve4
+* 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/59413
+* LEVEL4
 */
 
 -- 1) 재귀 쿼리를 활용한 방식
